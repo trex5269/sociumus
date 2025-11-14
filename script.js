@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
-    alert('Привет!');
+    alert('плаксин пидр!');
 });
 document.addEventListener('DOMContentLoaded', function() {
-    alert('Привет!');
+    alert('плаксин пидр!');
 });
